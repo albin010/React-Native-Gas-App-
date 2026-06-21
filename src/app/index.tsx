@@ -3,7 +3,7 @@ import Login from "./login";
 
 export default function Index() {
   return (
-      <Redirect href="/gas-booking" />
+      <Redirect href="/customer" />
     // <Redirect href="/login" />
   );
 }
